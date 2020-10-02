@@ -1,0 +1,12 @@
+{
+    "name": "scaleplan/file",
+    "description": "Scaleplan file functional",
+    "autoload": {
+        "psr-4": {
+            "Scaleplan\\File\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2"
+    }
+}
